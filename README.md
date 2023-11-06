@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishnaclouds / Bala Krishna
 - 👀 I’m interested in Writing, Photography and Coding
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter 
+- 🌱 I’m currently learning Flutter and Golang
+- 💞️ I’m building urlpro.in - An opensource URL Shortner Application. 
 - 📫 How to reach me prince.balakrishna@gmail.com
 
 <!---
